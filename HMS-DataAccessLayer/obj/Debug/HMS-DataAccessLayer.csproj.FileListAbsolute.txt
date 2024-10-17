@@ -1,0 +1,108 @@
+D:\OurProject\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\OurProject\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\OurProject\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\TOSHIBA\Desktop\Project_With_Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\muha1\Desktop\Programming\test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+G:\HospitalProject\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Hospital Management System With The Team\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Hospitals-managment-system-Project\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Test\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+C:\New folder (6)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+C:\New folder (6)\Test\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+C:\New folder (6)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+C:\New folder (6)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\New folder (6)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+C:\New folder (6)\Test\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+G:\HPFROMVS\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+G:\HPFROMVS\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+G:\HPFROMVS\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+G:\HPFROMVS\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\HPFROMVS\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+G:\HPFROMVS\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\bin\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.AssemblyReference.cache
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-DataAccessLayer\obj\Debug\HMS-DataAccessLayer.pdb

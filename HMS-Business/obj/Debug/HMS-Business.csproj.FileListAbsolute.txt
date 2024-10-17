@@ -1,0 +1,108 @@
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-Business.dll
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.dll
+D:\OurProject\Test\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.pdb
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+C:\Users\muha1\Desktop\Programming\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\bin\Debug\HMS-Business.dll
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\bin\Debug\HMS-Business.pdb
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CopyComplete
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\obj\Debug\HMS-Business.dll
+C:\Users\Человек\Desktop\New folder (10)\Test\HMS-Business\obj\Debug\HMS-Business.pdb
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+D:\سطح المكتب\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-Business.dll
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.dll
+D:\Desktop\Hospitals-managment-system-Project\HMS-Business\obj\Debug\HMS-Business.pdb
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\bin\Debug\HMS-Business.dll
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\bin\Debug\HMS-Business.pdb
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CopyComplete
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\obj\Debug\HMS-Business.dll
+C:\Users\Человек\Desktop\New folder (9)\Test\HMS-Business\obj\Debug\HMS-Business.pdb
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+C:\Users\Mo\Desktop\c#\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+D:\Desktop\Test\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
+C:\New folder (6)\Test\HMS-Business\bin\Debug\HMS-Business.dll
+C:\New folder (6)\Test\HMS-Business\bin\Debug\HMS-Business.pdb
+C:\New folder (6)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+C:\New folder (6)\Test\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+C:\New folder (6)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+C:\New folder (6)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+C:\New folder (6)\Test\HMS-Business\obj\Debug\HMS-Business.csproj.CopyComplete
+C:\New folder (6)\Test\HMS-Business\obj\Debug\HMS-Business.dll
+C:\New folder (6)\Test\HMS-Business\obj\Debug\HMS-Business.pdb
+G:\HPFROMVS\HMS-Business\bin\Debug\HMS-Business.dll
+G:\HPFROMVS\HMS-Business\bin\Debug\HMS-Business.pdb
+G:\HPFROMVS\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+G:\HPFROMVS\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+G:\HPFROMVS\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+G:\HPFROMVS\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+G:\HPFROMVS\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+G:\HPFROMVS\HMS-Business\obj\Debug\HMS-Business.dll
+G:\HPFROMVS\HMS-Business\obj\Debug\HMS-Business.pdb
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+D:\Desktop\Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.dll
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-Business.pdb
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.dll
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\bin\Debug\HMS-DataAccessLayer.pdb
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.AssemblyReference.cache
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Busi.52A19E66.Up2Date
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.dll
+D:\سطح المكتب\Osama Projects\Hospitals-managment-system\HMS-Business\obj\Debug\HMS-Business.pdb
